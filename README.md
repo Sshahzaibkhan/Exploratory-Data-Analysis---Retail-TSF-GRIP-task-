@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis---Retail-TSF-GRIP-task-
-It is an online internship task organised by TSF GRIP
+![Dashboard](https://user-images.githubusercontent.com/113547599/232872989-094c4b9c-a09c-4b57-828e-02a3f2de32e7.png)
+
+It is an online internship task organised by TSF GRIP.
 As a data analyst, I was tasked with performing ‘Exploratory Data Analysis’ on the dataset ‘SampleSuperstore’ to identify the weak areas of the business where improvements could be made to increase profitability.
 
 To begin the analysis, I first gathered the dataset and imported it into the Power BI tool. I then created a dashboard with visualizations that displayed the key measures of the business, such as profit, sales, discount, and quantity. These measures were analyzed based on various categories such as sub-category, state, city, and shipping mode to gain insights into the performance of different segments of the business.
