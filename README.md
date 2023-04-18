@@ -11,3 +11,6 @@ The visualizations in the dashboard allowed me to quickly identify the top-perfo
 The dashboard provided a comprehensive view of the business's performance, enabling me to uncover patterns and trends in the data that would otherwise be difficult to detect. I used this information to create a report that summarized my findings and provided recommendations for improving the business's performance.
 
 Overall, the analysis provided valuable insights into the business's performance and highlighted areas where improvements could be made to increase profitability. By utilizing the Power BI dashboard, I was able to easily identify the weak areas of the business and provide actionable recommendations to help the company grow and succeed.
+
+video link
+https://www.linkedin.com/posts/syed-shahzaib-data-analyst_gripapril23-business-data-activity-7054161341778931712-T-uQ?utm_source=share&utm_medium=member_desktop
